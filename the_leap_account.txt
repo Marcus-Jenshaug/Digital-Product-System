@@ -1,0 +1,4 @@
+Account created for The Leap.
+Username: jules
+Email: jules@example.com
+Storefront URL: jules.theleap.co
